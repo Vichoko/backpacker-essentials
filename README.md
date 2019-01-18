@@ -2,9 +2,13 @@
 
 A curated list of essential objects that you should always bring to a road trip
 
+Some of them are more neccesary that others, and this importance only depends on the **space** and **weight** 
+you can carry on. Meanwhile the importance of each item is not ranked in this list, you can priorize by your 
+own will and this list will probably help you not forget anything important.
+
 *The list is under construction so items are in spanish and should/will be translated in the future*
 
-## Individual item
+## Individual items
 
 Items that every person should have:
 
@@ -31,7 +35,7 @@ Items that every person should have:
 
 ## Group items
 
-Singular items that you probably just need one unit per group.
+Singular items that you most probably will just need one unit per group.
 
 - Enchufe triple
 - Lapiz, algo para escribir
@@ -41,11 +45,12 @@ Singular items that you probably just need one unit per group.
 - Gases
 - Comida
 - Carpa con toldo
+- Tostador de pan (Sirve para hacer arroz tambiÃ©nÂ)
 - Parlantes
 - Remedios (Antialergcos, antiacidos, desinflamatorios, analgesicos, cremas para hongo, hipoglos, bloqueador, 
 etc)
 
-## Considerations
+## Other considerations
 
 1. This list has been iterated over, at least 3 roadtrips to the South of Chile.
 
