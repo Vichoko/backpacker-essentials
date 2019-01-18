@@ -1,7 +1,8 @@
 # backpacker-essentials
-A curated list of essential objects that you have to take to a road trip
 
-* The list is under construction so items are in spanish and should be translated in the future *
+A curated list of essential objects that you should always bring to a road trip
+
+*The list is under construction so items are in spanish and should/will be translated in the future*
 
 ## Individual item
 
